@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.talentwunder
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, graalvm, gradle, http-client, kotlin, kotlin-application, kotlin-extension-functions, liquibase, logback, mysql, netty-server, openapi, readme, security-annotations, security-jwt, shade, spock, testcontainers, yaml]
